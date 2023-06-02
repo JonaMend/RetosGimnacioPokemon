@@ -1,0 +1,203 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+  
+}
+a{
+font-size: 55px;
+}
+
+:root{
+    --primary: #F9F5F6;
+    --secundary:#F8E8EE;
+    --info: #FDCEDF;
+    --contrast: #F2BED1;
+}
+
+body{
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+    background-color: #4e2031
+}
+
+.Link{
+    text-size-adjust: 200px;
+}
+
+.Pokemones{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr ;
+grid-gap: 20px;
+margin-left: 30px;
+margin-right: 30px;
+margin-top: 100px;
+}
+.Articuno-card-container{
+    background: linear-gradient(to right,#1d7f9f,#1d7f9f);
+    width: 350px;
+    height: auto;
+    margin: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.background1{
+    text-align: center;
+    background: linear-gradient(to right,#1151a0,#80d7f3);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+   
+}
+.imageA{
+    width: 200px;
+    height: 200px;
+}
+.content{
+    background: linear-gradient(to right,#1151a0,#80d7f3);
+    padding: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.Articuno-name{
+    text-align: center;
+    font-size: 19px;
+    font-weight: lighter;
+    padding: 10px;
+}
+.Articuno-type{
+    background-color: black;
+    padding: 7px;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    display: block;
+    text-align: center;
+    position: relative;
+    top: -70px;
+}
+.tres{
+    text-align: left;
+    font-size: 14px;
+    padding: 120px;
+}
+.Articuno-logo{
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+}
+.articuno-stats > p {
+    letter-spacing: 1px;
+}
+/* **********************************************************************/
+.pika-card-container{
+    background: linear-gradient(to right,#fad61f,#fad61f);
+    width: 350px;
+    height: auto;
+    margin: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.background2{
+    text-align: center;
+    background: linear-gradient(to right,#811e08,#5a4336);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+   
+}
+.imageB{
+    width: 200px;
+    height: 200px;
+}
+.content1{
+    background: linear-gradient(to right,#e19722,#e19722);
+    padding: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.pika-name{
+    text-align: center;
+    font-size: 19px;
+    font-weight: lighter;
+    padding: 10px;
+}
+.pika-type{
+    background-color: black;
+    padding: 7px;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    display: block;
+    text-align: center;
+    position: relative;
+    top: -70px;
+}
+.dos{
+    text-align: left;
+    font-size: 14px;
+    padding: 120px;
+}
+.pika-logo{
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+}
+.pika-stats > p {
+    letter-spacing: 1px;
+}
+/* **********************************************************************/
+.Mol-card-container{
+    background: linear-gradient(to right,#fad61f,#fad61f);
+    width: 350px;
+    height: auto;
+    margin: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.background3{
+    text-align: center;
+    background: linear-gradient(to right,#FFA347,#5a4336);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+   
+}
+.imageC{
+    width: 200px;
+    height: 200px;
+}
+.content2{
+    background: linear-gradient(to right,#ff7f00,#e19722);
+    padding: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.Mol-name{
+    text-align: center;
+    font-size: 19px;
+    font-weight: lighter;
+    padding: 10px;
+}
+.Mol-type{
+    background-color: black;
+    padding: 7px;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    display: block;
+    text-align: center;
+    position: relative;
+    top: -70px;
+}
+.uno{
+    text-align: left;
+    font-size: 14px;
+    padding: 120px;
+}
+.Mol-logo{
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+}
+.Mol-stats > p {
+    letter-spacing: 1px;
+}

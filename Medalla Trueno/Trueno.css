@@ -1,0 +1,35 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+table, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+
+table{
+    /* width: 100%; */
+    width: 300px;
+   /* height: 300px; */
+}
+
+a{
+    text-decoration: none;
+
+}
+
+
+
+td {    padding: 8px;     background: #e8edff;     border-bottom: 1px solid #fff;
+    color: #669;    border-top: 1px solid transparent; }
+
+tr 
+{ background: #d0dafd; 
+    color: #339; }
